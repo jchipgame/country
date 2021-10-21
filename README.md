@@ -1,6 +1,6 @@
 # Country Code
 
-Here is the tool book to let you search all of 250 countries' information, including country name, official state name. sovereignty, alpha-2 code, alpha-3 code, numeric code, internet ccTLD, capital, time zone and currency information.
+Here is the tool book to let you search all of 250 countries' information, including country name, official state name. sovereignty, alpha-2 code, alpha-3 code, numeric code, internet ccTLD, capital, call code, time zone and currency information.
 
 
 # Feature:
@@ -14,6 +14,7 @@ Here is the tool book to let you search all of 250 countries' information, inclu
 * Numeric code.
 * Internet ccTLD.
 * Capital.
+* Call code.
 * Timezone.
 * Currency.
 * Currency symbol.

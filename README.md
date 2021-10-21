@@ -4,20 +4,21 @@ Here is the tool book to let you search all of 250 countries' information, inclu
 
 
 # Feature:
-★ Search and sort the following information for all 250 countries.
-★ Country name.
-★ Official state name.
-★ Sovereignty.
-★ Alpha-2 code.
-★ Alpha-3 code.
-★ Numeric code.
-★ Internet ccTLD.
-★ Capital.
-★ Timezone.
-★ Currency.
-★ Currency symbol.
-★ Fractional unit.
-★ Basic number.
+* Search and sort the following information for all 250 countries.
+
+* Country name.
+* Official state name.
+* Sovereignty.
+* Alpha-2 code.
+* Alpha-3 code.
+* Numeric code.
+* Internet ccTLD.
+* Capital.
+* Timezone.
+* Currency.
+* Currency symbol.
+* Fractional unit.
+* Basic number.
 
 
 # Contact
